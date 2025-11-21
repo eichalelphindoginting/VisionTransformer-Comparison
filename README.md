@@ -1,7 +1,3 @@
-Tentu, ini adalah versi lengkap `README.md` yang sudah mencakup bagian **Cara Penggunaan** secara mendetail, tetap dengan format yang ringkas, formal, dan tanpa emoticon.
-
-Silakan salin kode di bawah ini:
-
 ````markdown
 # Perbandingan Model Vision Transformer (ViT) dan Swin Transformer
 
@@ -76,3 +72,4 @@ Kode program akan menghasilkan:
 
 ```
 ```
+
