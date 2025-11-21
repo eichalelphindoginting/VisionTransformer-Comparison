@@ -70,6 +70,4 @@ Kode program akan menghasilkan:
 
 <!-- end list -->
 
-```
-```
 
