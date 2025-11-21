@@ -3,10 +3,8 @@
 **Mata Kuliah:** Deep Learning (IF25-40401)  
 **Institusi:** Institut Teknologi Sumatera (ITERA)
 
-## Identitas Penulis
 * **Nama:** Eichal Elphindo Ginting
 * **NIM:** 122140165
-* **Program Studi:** Teknik Informatika
 
 ## Deskripsi Proyek
 Repository ini berisi kode implementasi untuk membandingkan performa dua arsitektur Vision Transformer pada dataset CIFAR-10:
@@ -18,7 +16,7 @@ Metode yang digunakan adalah Transfer Learning dengan pre-trained weights dari I
 ## Persyaratan Sistem
 Proyek ini dikembangkan menggunakan Python. Disarankan menggunakan Google Colab untuk akses GPU, namun dapat juga dijalankan pada mesin lokal.
 
-Library yang diperlukan (terlampir dalam `requirements.txt`):
+Library yang diperlukan:
 * torch, torchvision
 * timm
 * scikit-learn
@@ -71,3 +69,4 @@ Kode program akan menghasilkan:
 
 ```
 ```
+
